@@ -1,7 +1,7 @@
 baseURL: https://cory-g.github.io
 
 languageCode: en-us
-title: "Cory's Portfolio"
+title: "Cory Gargan's Portfolio"
 
 # Use Hugo modules to add theme
 module:
