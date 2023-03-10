@@ -81,8 +81,8 @@ projects:
   logo: /images/sections/projects/python.png
   role: Creator
   timeline: "November 2022 - Present"
-  #repo: https://github.com/cory-g/Portfolio-Projects/
-  url: "https://github.com/cory-g/Portfolio-Projects/tree/master/01-MLB-Spinrate-Data-in-R"
+  repo: https://github.com/cory-g/Portfolio-Projects/
+  url: "https://github.com/cory-g/Portfolio-Projects/blob/master/07-Python-Tic-Tac-Toe/main.py"
   summary: Tic-Tac-Toe created in Python
   tags: ["professional","Python"]
 
