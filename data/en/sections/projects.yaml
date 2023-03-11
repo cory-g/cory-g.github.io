@@ -85,6 +85,15 @@ projects:
   url: "https://github.com/cory-g/Portfolio-Projects/blob/master/07-Python-Tic-Tac-Toe/main.py"
   summary: Tic-Tac-Toe created in Python
   tags: ["professional","Python"]
+  
+- name: WAR-Card Simulation in Python
+  logo: /images/sections/projects/python.png
+  role: Creator
+  timeline: "November 2022 - Present"
+  #repo: https://github.com/cory-g/Portfolio-Projects/
+  url: "https://github.com/cory-g/Portfolio-Projects/blob/master/08-Python-WAR-Card-Sim/war.py"
+  summary: WAR card game sim created in Python
+  tags: ["professional","Python"]
 
 #- name: Movie Correlation Project
 #  logo: /images/sections/projects/scatter.png
