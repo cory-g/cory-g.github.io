@@ -104,13 +104,22 @@ projects:
   summary: Simple game of Blackjack coded in Python
   tags: ["professional","Python"]
   
-- name: Web Scraping in Python
+- name: Amazon Scraping in Python
   logo: /images/sections/projects/python.png
   role: Creator
   timeline: "November 2022 - Present"
   #repo: https://github.com/cory-g/Portfolio-Projects/
   url: "https://github.com/cory-g/Portfolio-Projects/blob/master/10-Python-Amazon-Scraping/amazon.py"
   summary: Scraping website data from an Amazon product
+  tags: ["professional","Python"]
+
+- name: Twitter Scraping in Python
+  logo: /images/sections/projects/python.png
+  role: Creator
+  timeline: "November 2022 - Present"
+  #repo: https://github.com/cory-g/Portfolio-Projects/
+  url: "https://github.com/cory-g/Portfolio-Projects/blob/master/11-Python-Twitter-Scraping/twitter-scrape.py"
+  summary: Scraping tweets from twitter by @username or subject. Results exported to .csv
   tags: ["professional","Python"]
 
 #- name: Movie Correlation Project
