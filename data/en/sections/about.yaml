@@ -52,20 +52,20 @@ socialLinks:
 softSkills:
 - name: Hard-working
   percentage: 100
-  color: blue
+  color: red
 - name: Detail-oriented
   percentage: 100
-  color: yellow
+  color: orange
 - name: Skillful prioritizer
   percentage: 100
-  color: orange
+  color: yellow
 - name: Adaptable
   percentage: 100
-  color: sky
+  color: green
 - name: Technology-focused
   percentage: 100
-  color: green
+  color: blue
 - name: Problem-solver
   percentage: 100
-  color: pink
+  color: purple
   
