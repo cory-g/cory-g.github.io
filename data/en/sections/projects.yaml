@@ -12,12 +12,20 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Professional
-  filter: "professional"
-- name: Academic
-  filter: "academic"
-- name: Hobby
-  filter: "hobby"
+- name: Python
+  filter: "python"
+- name: R
+  filter: "R"
+- name: SQL
+  filter: "sql"
+- name: Tableau
+  filter: "tableau"
+#- name: Professional
+#  filter: "professional"
+#- name: Academic
+#  filter: "academic"
+#- name: Hobby
+#  filter: "hobby"
 
 # your projects
 projects:
@@ -29,7 +37,7 @@ projects:
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   url: "https://public.tableau.com/app/profile/cory.gargan/viz/COVIDDataInfectionsDeathsNov2022_16683720983450/Dashboard1"
   summary: Tableau Data visualization created utilizing views created from the Covid SQL Project.
-  tags: ["professional", "Tableau", "Covid"]
+  tags: ["professional", "tableau", "covid"]
   
 - name: Mask Mandates, School Data Visualization
   logo: /images/sections/projects/linechart.png
@@ -39,7 +47,7 @@ projects:
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   url: "https://public.tableau.com/app/profile/cory.gargan/viz/MaskMandatesSchool2021-22/Dashboard1"
   summary: Tableau Data visualization created utilizing gathered mask mandate data.
-  tags: ["professional", "Tableau", "Covid", "Mask Mandates"]
+  tags: ["professional", "tableau", "covid"]
 
 - name: Covid SQL Project
   logo: /images/sections/projects/mysql.png
@@ -48,7 +56,7 @@ projects:
   #repo: https://github.com/cory-g/Portfolio-Projects/
   url: "https://github.com/cory-g/Portfolio-Projects/blob/master/04-Queries-COVID-Data-in-SQL/SQL-Queries_Covid-Data(20221110).sql"
   summary: In this project, MySQL was utilized in order to analyze global Covid-19 data.
-  tags: ["professional", "MySQL","academic", "Covid"]
+  tags: ["professional", "sql", "covid"]
 
 - name: Data Cleaning in MS SQL
   logo: /images/sections/projects/mssql.png
@@ -57,7 +65,7 @@ projects:
   #repo: https://github.com/cory-g/Portfolio-Projects/
   url: "https://github.com/cory-g/Portfolio-Projects/blob/master/03-Data-Cleaning-in-SQL/Data-Cleaning-in-SQL.sql"
   summary: Transformed housing data with MySQL to ensure a suitable format for analysis.
-  tags: ["professional","MS SQL", "academic"]
+  tags: ["professional","sql"]
   
 - name: Data Cleaning in R
   logo: /images/sections/projects/r.png
@@ -66,7 +74,7 @@ projects:
   #repo: https://github.com/cory-g/Portfolio-Projects/
   url: "https://github.com/cory-g/Portfolio-Projects/blob/master/02-Data-Cleaning-in-R"
   summary: Transformed housing data with R to ensure a suitable format for analysis.
-  tags: ["professional","R", "academic"]
+  tags: ["professional","R"]
   
 - name: MLB Spinrate Analysis in R
   logo: /images/sections/projects/r.png
@@ -75,7 +83,7 @@ projects:
   #repo: https://github.com/cory-g/Portfolio-Projects/
   url: "https://github.com/cory-g/Portfolio-Projects/tree/master/01-MLB-Spinrate-Data-in-R"
   summary: Analyzed MLB pitching data in attempt to determine if cheating had occured.
-  tags: ["professional","R", "hobby"]
+  tags: ["hobby","R"]
   
 - name: Tic-Tac-Toe in Python
   logo: /images/sections/projects/python.png
@@ -84,7 +92,7 @@ projects:
   #repo: https://github.com/cory-g/Portfolio-Projects/
   url: "https://github.com/cory-g/Portfolio-Projects/blob/master/07-Python-Tic-Tac-Toe/main.py"
   summary: Tic-Tac-Toe created in Python
-  tags: ["professional","Python"]
+  tags: ["professional","python"]
   
 - name: WAR Card Game Simulation in Python
   logo: /images/sections/projects/python.png
@@ -93,7 +101,7 @@ projects:
   #repo: https://github.com/cory-g/Portfolio-Projects/
   url: "https://github.com/cory-g/Portfolio-Projects/blob/master/08-Python-WAR-Card-Sim/war.py"
   summary: WAR card game sim coded in Python
-  tags: ["professional","Python"]
+  tags: ["professional","python"]
   
 - name: Blackjack in Python
   logo: /images/sections/projects/python.png
@@ -102,7 +110,7 @@ projects:
   #repo: https://github.com/cory-g/Portfolio-Projects/
   url: "https://github.com/cory-g/Portfolio-Projects/blob/master/09-Python-Blackjack/blackjack.py"
   summary: Simple game of Blackjack coded in Python
-  tags: ["professional","Python"]
+  tags: ["professional","python"]
   
 - name: Amazon Scraping in Python
   logo: /images/sections/projects/python.png
@@ -111,7 +119,7 @@ projects:
   #repo: https://github.com/cory-g/Portfolio-Projects/
   url: "https://github.com/cory-g/Portfolio-Projects/blob/master/10-Python-Amazon-Scraping/amazon.py"
   summary: Scraping website data from an Amazon product
-  tags: ["professional","Python"]
+  tags: ["professional","python"]
 
 - name: Twitter Scraping in Python
   logo: /images/sections/projects/python.png
@@ -120,7 +128,7 @@ projects:
   #repo: https://github.com/cory-g/Portfolio-Projects/
   url: "https://github.com/cory-g/Portfolio-Projects/blob/master/11-Python-Twitter-Scraping/twitter-scrape.py"
   summary: Scraping tweets from twitter by @username or subject. Results exported to .csv
-  tags: ["professional","Python"]
+  tags: ["professional","python"]
 
 #- name: Movie Correlation Project
 #  logo: /images/sections/projects/scatter.png
