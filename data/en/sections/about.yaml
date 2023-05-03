@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Data Generalist
+designation: Data Analyst/Engineer
 # your company information
 # company:
 #   name: Example Co.
@@ -18,13 +18,12 @@ designation: Data Generalist
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I have a passion for problem-solving and data. Proficient in using
-various platforms for data cleaning, manipulation, visualization, and
-analysis. Strong communication, organizational, and analytical skills.
-Detail-oriented with superior attention to detail. Excellent at trend and
-pattern recognition. Goal-oriented and determined, fast learner. I completed the Google 
-Data Analytics Professional certificate. I have also completed several courses on Udemy. 
-I am currently completing the IBM Data Engineering Professional Certificate.'
+summary: 'Experienced data analyst possessing expertise in data cleaning, manipulation,
+visualization, and analysis. Committed to delivering high-quality work with strong
+communication, organizational, and analytical skills, and a keen eye for detail. Confident in
+ability to quickly learn new platforms, programming languages, and technologies to deliver
+effective solutions. I completed the Google Data Analytics Professional certificate. 
+I am currently enrolled in the IBM Data Engineering Professional Certificate.'
 # Sometimes, I work on some fun projects such as writing a theme, etc.'
 
 # your social links
