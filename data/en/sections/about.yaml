@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Data Generalist
+designation: Data Analyst
 # your company information
 # company:
 #   name: Example Co.
@@ -18,13 +18,7 @@ designation: Data Generalist
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I have a passion for problem-solving and data. Proficient in using
-various platforms for data cleaning, manipulation, visualization, and
-analysis. Strong communication, organizational, and analytical skills.
-Detail-oriented with superior attention to detail. Excellent at trend and
-pattern recognition. Goal-oriented and determined, fast learner. I completed the Google 
-Data Analytics Professional certificate. I have also completed several courses on Udemy. 
-I am currently completing the IBM Data Engineering Professional Certificate.'
+summary: 'Results-driven Data Analyst with expertise in Python, SQL, and machine learning frameworks, including Scikit-Learn, and XGBoost. Skilled in building predictive models, performing statistical analysis, and leveraging ETL processes to transform raw data into actionable insights. Experienced in developing automated dashboards, optimizing workflows, and enhancing data accuracy for executive decision-making. Proficient in transforming raw data into meaningful insights to improve efficiency, compliance, and business outcomes through cross-functional collaboration.'
 # Sometimes, I work on some fun projects such as writing a theme, etc.'
 
 # your social links
@@ -32,7 +26,7 @@ I am currently completing the IBM Data Engineering Professional Certificate.'
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "cory.gargan@tuta.io"
+  url: "cory.gargan@gmail.com"
   
 - name: Github
   icon: "fab fa-github"
@@ -42,30 +36,30 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/cory-gargan/"
 
-- name: Tableau Public
-  icon: "fas fa-chart-bar"
-  url: "https://public.tableau.com/app/profile/cory.gargan"
+#- name: Tableau Public
+#  icon: "fas fa-chart-bar"
+#  url: "https://public.tableau.com/app/profile/cory.gargan"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Hard-working
+- name: Problem-solving
   percentage: 100
   color: blue
-- name: Detail-oriented
+- name: Communication & Data Storytelling
   percentage: 100
   color: yellow
-- name: Skillful prioritizer
+- name: Critical Thinking
   percentage: 100
   color: orange
-- name: Adaptable
+- name: Collaboration & Cross-Functional Teamwork
   percentage: 100
   color: sky
-- name: Technology-focused
+- name: Adaptability & Continuous Learning
   percentage: 100
   color: green
-- name: Problem-solver
+- name: Attention to Detail & Data Integrity
   percentage: 100
   color: pink
   

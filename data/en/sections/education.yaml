@@ -27,16 +27,16 @@ degrees:
 #     url: "#"
 #   - title: Nullam vitae orci tincidunt purus viverra pulvinar.
 #     url: "#"
-- name: B.Sc. in Business Management 
+- name: Bachelor of Science in Business Administration
   icon: fa-graduation-cap
-  timeframe: 2006-2010
+#  timeframe: 2006-2010
   institution:
     name: Stony Brook University
     url: "#"
   grade: #(optional)
-    scale: CGPA
-    achieved: 3.5
-    outOf: 4
+    scale: GPA
+    achieved: 3.4
+    outOf: 4.0
 #  takenCourses: #(optional)
 #    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
 #    showGrades: true

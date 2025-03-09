@@ -6,15 +6,14 @@ greeting: "Hello, I am"
 image: "images/author/bd.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "cory.gargan@tuta.io"
+  email: "cory.gargan@gmail.com"
   phone: "(631) 530-7265"
   github: cory-g
   linkedin: cory-gargan
 
 # some summary about what you do
 summary:
-  - I am interested in Data Analytics and Data Engineering
-  - I like to collaborate and work as a team
-  - I enjoy digging through data to find insights
-  - I love working with databases and large data sets
-  - I really love walking barefoot on grass
+  - I am passionate about uncovering insights through Data Analysis and applying Data Science to solve complex problems.
+  - I enjoy designing, building, and testing Machine Learning models to optimize performance and extract meaningful insights.
+  - I thrive on exploring complex datasets to uncover hidden patterns and drive data-informed decisions.
+  - I excel at managing and analyzing large datasets, optimizing databases, and ensuring data integrity for impactful decision-making.

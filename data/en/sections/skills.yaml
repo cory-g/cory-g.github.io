@@ -11,25 +11,25 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Data Visualization
-  logo: "/images/sections/skills/datavis.png"
-  summary: "Experience using Excel, Google sheets, and Tableau."
-  url: "https://public.tableau.com/app/profile/cory.gargan"
+- name: Programming
+  logo: "/images/sections/skills/code.png"
+  summary: "Python: Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib; ETL automation"
+  url: "https://github.com/cory-g"
+
+- name: Statistics Analysis/Machine Learning
+  logo: "/images/sections/skills/stats.gif"
+  summary: "Regression Analysis, Predictive Modeling, Data Validation"
+  url: "https://github.com/cory-g"
 
 - name: SQL
   logo: "/images/sections/skills/sql.png"
-  summary: "Proficient in writing SQL queries to further analyze and interpret data.
-  Previously utilized MySQL, MS SQL, and BigQuery" 
+  summary: "MySQL, PostGreSQL, Snowflake" 
   url: "https://github.com/cory-g/Portfolio-Projects"
-
-- name: Statistics
-  logo: "/images/sections/skills/stats.gif"
-  summary: "Analyze data by translating it and performing statistical techniques (sampling, regressions, analysis of variance, etc) in R and Python."
-
-- name: Programming
-  logo: "/images/sections/skills/code.png"
-  summary: "Created and managed databases in SQL and Python."
-  url: "https://github.com/cory-g"
+  
+- name: Data Visualization
+  logo: "/images/sections/skills/datavis.png"
+  summary: "Power BI, Tableau"
+# url: "https://public.tableau.com/app/profile/cory.gargan"
 
 #- name: NoSQL
 #  logo: "/images/sections/skills/mongodb.png"
