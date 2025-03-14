@@ -14,10 +14,10 @@ buttons:
   filter: "all"
 - name: Python
   filter: "python"
-- name: R
-  filter: "R"
 - name: SQL
   filter: "sql"
+- name: R
+  filter: "R"
 - name: Tableau
   filter: "tableau"
 #- name: Professional
@@ -44,10 +44,10 @@ projects:
   timeline: "November 2022"
   #repo: https://github.com/cory-g/Portfolio-Projects/
   url: "https://github.com/cory-g/Portfolio-Projects/blob/master/03-Data-Cleaning-in-SQL/Data-Cleaning-in-SQL.sql"
-  summary: Transformed housing data with MySQL to ensure a suitable format for analysis.
+  summary: Transformed housing data with MS SQL Server to ensure a suitable format for analysis.
   tags: ["sql"]
   
-- name: Website Automation in Python
+- name: Website Voting Automation
   logo: /images/sections/projects/python.png
   role: Creator
   timeline: "November 2022 (Updated 2025)"
@@ -56,7 +56,7 @@ projects:
   summary: Automated the task of casting votes in order to nominate a Doctor in a local marketing campaign
   tags: ["python"]
   
-- name: GUI Version-Website Automation in Python
+- name: GUI Version - Website Voting Automation
   logo: /images/sections/projects/python.png
   role: Creator
   timeline: "November 2022 (Updated 2025)"
@@ -65,7 +65,7 @@ projects:
   summary: GUI Version-Automated the task of casting votes in order to nominate a Doctor in a local marketing campaign
   tags: ["python"]
   
-- name: Data Cleaning in R
+- name: Data Cleaning
   logo: /images/sections/projects/r.png
   role: Creator
   timeline: "November 2022"
@@ -74,7 +74,7 @@ projects:
   summary: Transformed housing data with R to ensure a suitable format for analysis.
   tags: ["R"]
   
-- name: MLB Spinrate Analysis in R
+- name: MLB Spinrate Analysis
   logo: /images/sections/projects/r.png
   role: Creator
   timeline: "November 2022"
