@@ -67,6 +67,24 @@ projects:
   summary: Transformed housing data with MySQL to ensure a suitable format for analysis.
   tags: ["sql"]
   
+- name: Website Automation in Python
+  logo: /images/sections/projects/python.png
+  role: Creator
+  timeline: "November 2022 (Updated 2025)"
+  #repo: https://github.com/cory-g/Portfolio-Projects/
+  url: "https://github.com/cory-g/Portfolio-Projects/blob/master/12-Python-Website-Automation/Webpage-Vote-Automation.py"
+  summary: Automated the task of casting votes in order to nominate a Doctor in a local marketing campaign
+  tags: ["python"]
+  
+- name: GUI Version-Website Automation in Python
+  logo: /images/sections/projects/python.png
+  role: Creator
+  timeline: "November 2022 (Updated 2025)"
+  #repo: https://github.com/cory-g/Portfolio-Projects/
+  url: "https://github.com/cory-g/Portfolio-Projects/blob/master/13-Python-GUI-Website-Automation/main.py"
+  summary: GUI Version-Automated the task of casting votes in order to nominate a Doctor in a local marketing campaign
+  tags: ["python"]
+  
 - name: Data Cleaning in R
   logo: /images/sections/projects/r.png
   role: Creator
@@ -129,21 +147,3 @@ projects:
 #  url: "https://github.com/cory-g/Portfolio-Projects/blob/master/11-Python-Twitter-Scraping/twitter-scrape.py"
 #  summary: Scraping tweets from twitter by @username or subject. Results exported to .csv
 #  tags: ["professional","python"]
-
-- name: Website Automation in Python
-  logo: /images/sections/projects/python.png
-  role: Creator
-  timeline: "November 2022 (Updated 2025)"
-  #repo: https://github.com/cory-g/Portfolio-Projects/
-  url: "https://github.com/cory-g/Portfolio-Projects/blob/master/12-Python-Website-Automation/Webpage-Vote-Automation.py"
-  summary: Automated the task of casting votes in order to nominate a Doctor in a local marketing campaign
-  tags: ["python"]
-  
-- name: GUI Version-Website Automation in Python
-  logo: /images/sections/projects/python.png
-  role: Creator
-  timeline: "November 2022 (Updated 2025)"
-  #repo: https://github.com/cory-g/Portfolio-Projects/
-  url: "https://github.com/cory-g/Portfolio-Projects/blob/master/13-Python-GUI-Website-Automation/main.py"
-  summary: GUI Version-Automated the task of casting votes in order to nominate a Doctor in a local marketing campaign
-  tags: ["python"]
