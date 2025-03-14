@@ -5,40 +5,111 @@ section:
   enable: true
   weight: 2
   showOnNavbar: true
+  filter: true
   # Can optionally hide the title in sections
   # hideTitle: true
 
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+#- name: Basic
+#  filter: "basic"
+- name: Programming Languages
+  filter: "language"
+- name: Database
+  filter: "database"
+- name: Data Visualization
+  filter: "data vis"
+- name: Other
+  filter: "other"
+  
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Programming
-  logo: "/images/sections/skills/code.png"
-  summary: "Python: Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib; ETL automation"
-  url: "https://github.com/cory-g"
-
-- name: Statistics Analysis/Machine Learning
-  logo: "/images/sections/skills/stats.gif"
-  summary: "Regression Analysis, Predictive Modeling, Data Validation"
-  url: "https://github.com/cory-g"
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "Primary programming language for data analysis, machine learning, and automation."
+  categories: ["language"]
+  url: "https://python.org/"
 
 - name: SQL
-  logo: "/images/sections/skills/sql.png"
-  summary: "MySQL, PostGreSQL, Snowflake" 
-  url: "https://github.com/cory-g/Portfolio-Projects"
+  logo: /images/sections/skills/sql.png
+  summary: "Extracting, manipulating, and analyzing structured data from relational databases. I have experience with PostgreSQL, MySQL, and Snowflake"
+  categories: ["database", "language"]
+  # url: "#"
+
+- name: ETL (Extract, Transform, Load)
+  logo: /images/sections/skills/code.png
+  summary: "Building data pipelines to clean and structure data for analysis"
+  categories: ["database"]
+
+- name: Pandas & NumPy
+  logo: /images/sections/skills/python.png
+  summary: "Essential Python libraries for data manipulation and numerical computing."
+  categories: ["other"]
+  #url: "#"
+
+- name: Scikit-learn, RandomForest, XGBoost
+  logo: /images/sections/skills/python.png
+  summary: "Implementing machine learning models for classification, regression, and predictive analytics."
+  categories: ["other"]
+
+- name: Power BI, Tableau
+  logo: /images/sections/skills/datavis.png
+  summary: "Creating interactive dashboards and reports for business insights."
+  categories: ["data vis"]
+  url: "https://www.microsoft.com/en-us/power-platform/products/power-bi"
+
+- name: Matplotlib & Seaborn
+  logo: /images/sections/skills/python.png
+  summary: "Python libraries for static, animated, and interactive data visualizations."
+  categories: ["data vis"]
   
-- name: Data Visualization
-  logo: "/images/sections/skills/datavis.png"
-  summary: "Power BI, Tableau"
-# url: "https://public.tableau.com/app/profile/cory.gargan"
+- name: Snowflake
+  logo: /images/sections/skills/cloud.png
+  summary: "Cloud-based data warehousing for scalable storage and analytics"
+  categories: ["database"]
+  url: "https://snowflake.com/"
+  
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Working with command-line tools for data processing and automation."
+  categories: ["other"]
+  # url: "https://.com/"
+  
+- name: Jupyter Notebook
+  logo: /images/sections/skills/code.png
+  summary: "An interactive environment for coding, documenting, and visualizing data."
+  categories: ["other"]
+  url: "https://jupyter.com/"
 
-#- name: NoSQL
-#  logo: "/images/sections/skills/mongodb.png"
-#  summary: "Created non-relational databases with MongoDB." 
+- name: Data Validation
+  logo: /images/sections/skills/stats.gif
+  summary: "Ensuring data accuracy, completeness, and consistency in analytical processes."
+  categories: ["other"]
+  # url: "https://.org/"
 
-#- name: HTML
-#  logo: "/images/sections/skills/html.png"
-#  summary: "Constructed websites utilizing HTML, CSS, Canvas, jQuery, React, AJAX, JSON, and the DOM(Document Object Model)"
+- name: R
+  logo: /images/sections/skills/r.png
+  summary: "Used for statistical computing and visualization in data science."
+  categories: ["language"]
+  url: "https://r-project.org/"
 
-#- name: Web Applications
-#  logo: "/images/sections/skills/node.png"
-#  summary: "Created web-applications with Javascript, Node.js, and Express.js"
+- name: Regression Analysis & Predictive Modeling
+  logo: /images/sections/skills/scatter.png
+  summary: "Using statistical techniques to make data-driven predictions."
+  categories: ["other"]
+  # url: "https://.com/"
+  
+- name: Microsoft Dynamics 365
+  logo: /images/sections/skills/code.png
+  summary: "Managing customer and business data within CRM systems."
+  categories: ["database", "other"]
+  url: "https://www.microsoft.com/en-us/dynamics-365"
+
+- name: Microsoft Excel
+  logo: /images/sections/skills/stats.gif
+  summary: "Performing data analysis, and reporting using advanced functions such as VLOOKUP/XLOOKUP, INDEX-MATCH, PivotTables, Power Query, and dynamic arrays to automate workflows and enhance decision-making."
+  categories: ["other"]
+  url: "https://www.microsoft.com/en-us/microsoft-365/excel"

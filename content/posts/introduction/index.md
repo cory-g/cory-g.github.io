@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-date: 2022-11-11
+date: 2020-06-08T08:06:25+06:00
 description: Introduction to Sample Post
 menu:
   sidebar:
@@ -11,9 +11,8 @@ tags: ["Basic", "Multi-lingual"]
 categories: ["Basic"]
 ---
 
-Hello, my name is Cory Gargan. I have spent time learning, reviewing, and mastering the skills/applications shown below:
+Greeting! This is an introduction post. This post tests the followings:
 
-- Data Visualization: Tableau, Excel
-- Programming: SQL (MySQL, MS SQL, BIGQUERY), R, Python
-  
-- As review, I have also completed several courses on Udemy. I completed the Google Data Analytics Professional certificate. I currently completing the IBM Data Engineering Professional Certificate. 
+- Hero image is in the same directory as the post.
+- This post should be at top of the sidebar.
+- Post author should be the same as specified in `author.yaml` file.

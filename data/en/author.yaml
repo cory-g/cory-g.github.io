@@ -3,13 +3,14 @@ name: "Cory Gargan"
 nickname: "Cory"
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hello, I am"
-image: "images/author/bd.png"
+image: "images/author/cg.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "cory.gargan@gmail.com"
   phone: "(631) 530-7265"
   github: cory-g
-  linkedin: cory-gargan
+  linkedin: cory-g21
+  # researchgate: john-doe
 
 # some summary about what you do
 summary:

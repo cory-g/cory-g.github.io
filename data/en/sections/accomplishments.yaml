@@ -1,0 +1,30 @@
+# section information
+section:
+  name: Accomplishments
+  id: accomplishments
+  enable: true
+  weight: 9
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: Google Data Analytics Professional Certificate
+  timeline: "2022"
+  organization:
+    name: Coursera
+    url: https://www.coursera.org
+  courseOverview: The Google Data Analytics Professional Certificate on Coursera is an industry-recognized program designed to equip learners with essential data analytics skills through hands-on training. Covering the full data lifecycle, the course teaches data cleaning, analysis, visualization, and storytelling using Excel, SQL, Tableau, and R. Learners gain expertise in statistical analysis, database management, and business problem-solving, culminating in a capstone project that applies real-world data scenarios. Upon completion, participants earn a Google-certified credential, preparing them for entry-level data analyst roles across various industries.
+  certificateURL: "https://coursera.org/share/d9b19337079953f52878bdcbf89ec9cb"
+
+#- name: IBM Data Engineering Professional Certificate
+#  timeline: "2023"
+#  organization:
+#    name: Coursera
+#    url: https://www.coursera.org
+#  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
+#  certificateURL: "https://example.com"
+ 
+
