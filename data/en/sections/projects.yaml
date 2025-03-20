@@ -27,20 +27,20 @@ buttons:
 
 # your projects
 projects:
-- name: Predicting Bicycle Rentals
-  logo: /images/sections/projects/ml.png
-  role: Creator
-  timeline: "2025"
-  url: "https://github.com/cory-g/Portfolio-Projects/blob/master/17-Bicycle_Rental_Predictions/Bike_Analysis.ipynb"
-  summary: Analysis of Bicycle rental data. Uses XGBRegressor & LinearRegression to predict future Bicycle rentals. Includes data cleaning, feature engineering, visualization
-  tags: ["ml", "python", "viz", "analysis"]
-
 - name: Predicting Customer Churn
   logo: /images/sections/projects/ml.png
   role: Creator
   timeline: "2025"
   url: "https://github.com/cory-g/Portfolio-Projects/blob/master/18-Customer_Churn_Predictions/Churn_Analysis-Final.ipynb"
   summary: Analysis of Consumer Telecom data. Uses XGBClassifier & RandomForestClassifier to predict customer churn. Includes data cleaning, feature engineering, visualization
+  tags: ["ml", "python", "viz", "analysis"]
+
+- name: Predicting Bicycle Rentals
+  logo: /images/sections/projects/ml.png
+  role: Creator
+  timeline: "2025"
+  url: "https://github.com/cory-g/Portfolio-Projects/blob/master/17-Bicycle_Rental_Predictions/Bike_Analysis.ipynb"
+  summary: Analysis of Bicycle rental data. Uses XGBRegressor & LinearRegression to predict future Bicycle rentals. Includes data cleaning, feature engineering, visualization
   tags: ["ml", "python", "viz", "analysis"]
 
 - name: Big Box Store - Sales Data Analysis
