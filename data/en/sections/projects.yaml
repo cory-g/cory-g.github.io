@@ -12,17 +12,45 @@ section:
 buttons:
 - name: All
   filter: "all"
+- name: Data Analysis
+  filter: "analysis"
+- name: Machine Learning
+  filter: "ml"
 - name: Python
   filter: "python"
 - name: SQL
   filter: "sql"
 - name: R
   filter: "R"
-- name: Tableau
-  filter: "tableau"
+- name: Visualization
+  filter: "viz"
 
 # your projects
 projects:
+- name: Predicting Bicycle Rentals
+  logo: /images/sections/projects/ml.png
+  role: Creator
+  timeline: "2025"
+  url: "https://github.com/cory-g/Portfolio-Projects/blob/master/17-Bicycle_Rental_Predictions/Bike_Analysis.ipynb"
+  summary: Analysis of Bicycle rental data. Uses XGBRegressor & LinearRegression to predict future Bicycle rentals. Includes data cleaning, feature engineering, visualization
+  tags: ["ml", "python", "viz", "analysis"]
+
+- name: Predicting Customer Churn
+  logo: /images/sections/projects/ml.png
+  role: Creator
+  timeline: "2025"
+  url: "https://github.com/cory-g/Portfolio-Projects/blob/master/18-Customer_Churn_Predictions/Churn_Analysis-Final.ipynb"
+  summary: Analysis of Consumer Telecom data. Uses XGBClassifier & RandomForestClassifier to predict customer churn. Includes data cleaning, feature engineering, visualization
+  tags: ["ml", "python", "viz", "analysis"]
+
+- name: Big Box Store - Sales Data Analysis
+  logo: /images/sections/projects/ml.png
+  role: Creator
+  timeline: "2025"
+  url: "https://github.com/cory-g/Portfolio-Projects/blob/master/19-Big_Box_Analysis/Superstore-Time_Series.ipynb"
+  summary: Analysis of sales data from a Big Box store. Includes data cleaning, feature engineering, visualization. 
+  tags: ["python", "viz", "analysis"]
+
 - name: ETL Automation - Python 1
   logo: /images/sections/projects/python.png
   role: Creator
@@ -93,7 +121,7 @@ projects:
   timeline: "2022"
   url: "https://github.com/cory-g/Portfolio-Projects/tree/master/01-MLB-Spinrate-Data-in-R"
   summary: Analyzed MLB pitching data in attempt to determine if cheating had occured.
-  tags: ["R"]
+  tags: ["R", "viz"]
 
 - name: Covid Data Visualization
   logo: /images/sections/projects/linechart.png
@@ -101,7 +129,7 @@ projects:
   timeline: "2022"
   url: "https://public.tableau.com/app/profile/cory.gargan/viz/COVIDDataInfectionsDeathsNov2022_16683720983450/Dashboard1"
   summary: Tableau Data visualization created utilizing views created from the Covid SQL Project.
-  tags: ["tableau"]
+  tags: ["viz"]
 
 #- name: Mask Mandates, School Data Visualization
 #  logo: /images/sections/projects/linechart.png
