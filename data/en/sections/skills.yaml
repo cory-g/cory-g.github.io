@@ -51,7 +51,7 @@ skills:
   #url: "#"
 
 - name: Scikit-learn, RandomForest, XGBoost
-  logo: /images/sections/skills/python.png
+  logo: /images/sections/skills/ml.png
   summary: "Implementing machine learning models for classification, regression, and predictive analytics."
   categories: ["other"]
 
