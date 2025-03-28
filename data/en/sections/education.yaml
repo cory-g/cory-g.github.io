@@ -19,10 +19,10 @@ degrees:
     logo: /images/sections/education/sbu.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/tech_college.png
-  grade: #(optional)
-    scale: GPA
-    achieved: 3.4
-    outOf: 4
+#  grade: #(optional)
+#    scale: GPA
+#    achieved: 3.4
+#    outOf: 4
 #- name: Ph.D in Quantum Cryptography
 #  icon: fa-microscope
 #  timeframe: 2016-2020
