@@ -20,21 +20,26 @@ experiences:
     # company overview
     overview: CPower enables a flexible, clean energy future by optimizing customer DERs through monetization and Virtual Power Plants, delivering grid flexibility when and where it's needed most.
   positions:
-  - designation: Data Analyst
+  - designation: Senior Analyst, Energy Data
+    start: December 2025
+    designation: Analyst, Energy Data
     start: April 2023
+    end: December 2025
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Utilized Python for ETL automation, data analysis, and workflow management, reducing manual work by 20+ hours per month.
-    - Created metrics that were delivered to the VP of Customer Enablement. Gave context to allow an easy understanding of complex topics.
-    - Built centralized data pipelines and Power BI dashboards to track KPIs for Sales & Operations.
-    - Developed and performed quality checks on data, investigated data discrepancies, collaborated cross functionally to find solutions and communicate timely updates and process improvements across organization.
-    - Researched and resolved issues regarding the integrity of data flow into databases.
-    - Created and led an initiative to validate the data accuracy of 2,200+ customer accounts annually, this project maintains regulatory compliance with all governing bodies.
-    - Developed an automated dashboard for Dynamics 365 activity tracking, increasing visibility and transparency in key business functions.
-    - Reduced backlog in pending data validations by 45% in the first two months.
-    - Led AI research project for the SVP of Technology, evaluated, tested, and reported on emerging AI platforms for business use.
+    - Led development of automated ETL and data ingestion workflows using Python and SQL, ensuring reliable integration of multi-source operational data.
+    - Automated co-worker tasks using Python, reducing manual workload by 20+ hours per month.
+    - Designed and maintained centralized data pipelines, dashboards, and ad hoc reporting solutions supporting cross-departmental KPI monitoring.
+    - Developed executive-facing metrics delivered to the VP of Customer Enablement, translating complex operational data into actionable insights.
+    - Implemented structured data validation frameworks and anomaly detection checks, reducing validation backlog by 45% and improving reporting accuracy.
+    - Served as data lead for cross-functional migration and modeling initiatives, ensuring alignment across source systems.
+    - Created and led an annual compliance validation initiative covering 2,200+ customer accounts, ensuring required documentation and data traceability for regulatory adherence and audit readiness.
+    - Documented data definitions, business rules, and Standard Operating Procedures to support team awareness and future system enhancements.
+    - Investigated and resolved data integrity issues across systems, collaborating cross-functionally to improve database reliability and reporting accuracy.
+    - Built automated Dynamics 365 activity tracking dashboards to increase operational transparency.
+    - Led an AI research initiative for the SVP of Technology, evaluating emerging AI platforms for business integration and reporting findings to executive leadership.
 
 #  - designation: Junior Software Engineer
 #    start: Nov 2017
@@ -53,13 +58,13 @@ experiences:
     # darkLogo: /images/sections/experiences/company2.jpg
     overview: Price Acoustics is a premier general contracting firm specializing in high-quality acoustical ceilings and drywall solutions, delivering exceptional craftsmanship and precision to every project.
   positions:
-  - designation: Data Analyst
-    start: Dec 2021
+  - designation: Business Analyst
+    start: December 2021
     end: April 2023
     responsibilities:
-    - Consolidated disparate data sources, created data pipelines and tableau dashboards for leadership, leading to $100,000+ recovered in unrealized outstanding payments.
-    - Utilized Python for data cleaning efforts aimed at improving data accuracy and ensuring compliance for audits.
-    - Spearheaded creation of monthly reports consolidating materials procurement and inventory trends, reducing waste and improving cost efficiency and steering data-driven decisions.
+    - Consolidated disparate data sources into centralized pipelines and Tableau dashboards, contributing to recovery of $100K+ in unrealized payments.
+    - Improved audit readiness and reporting accuracy through Python-based data cleaning and validation processes.
+    - Designed monthly procurement and inventory trend reports to reduce material waste and improve cost efficiency.
 
 - company:
     name: Nassau County Police Department
@@ -70,15 +75,15 @@ experiences:
     # darkLogo: /images/sections/experiences/company3.jpg
     overview: County Police Department
   positions:
-  - designation: Data Analyst
+  - designation: Analyst, Arrest & Fingerprint Data
     start: May 2019
-    end: Dec 2021
+    end: December 2021
     responsibilities:
-    - Implemented data entry process change, reduced misidentified persons and data transmission errors by 75%.
-    - Led a team of four analysts, ensuring data accuracy and compliance with state and federal regulations.
+    - Redesigned data entry processes, reducing misidentification and transmission errors by 75%.
+    - Led a team of four analysts to ensure compliance with New York State and federal reporting regulations, maintaining data accuracy across criminal justice systems.
     
   - designation: Police Officer
     start: Oct 2015
     end: May 2019
     responsibilities:
-    - Served in patrol functions and specialized units to ensure public safety.
+    - Served in patrol and specialized units, maintaining public safety and operational readiness.
