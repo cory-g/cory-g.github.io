@@ -22,7 +22,7 @@ experiences:
   positions:
   - designation: Senior Analyst, Energy Data
     start: December 2025
-    designation: Analyst, Energy Data
+  - designation: Analyst, Energy Data
     start: April 2023
     end: December 2025
     # don't provide end date if you are currently working there. It will be replaced by "Present"
