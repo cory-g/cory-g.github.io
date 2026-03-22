@@ -30,12 +30,13 @@ experiences:
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Led development of automated ETL and data ingestion workflows using Python and SQL, ensuring reliable integration of multi-source operational data.
+    - Supported operational data workflows tied to demand response programs across capacity, economic, ancillary services, and emergency DR program types, working within data systems that interfaced with major ISO/RTO markets.
     - Automated co-worker tasks using Python, reducing manual workload by 20+ hours per month.
     - Designed and maintained centralized data pipelines, dashboards, and ad hoc reporting solutions supporting cross-departmental KPI monitoring.
     - Developed executive-facing metrics delivered to the VP of Customer Enablement, translating complex operational data into actionable insights.
     - Implemented structured data validation frameworks and anomaly detection checks, reducing validation backlog by 45% and improving reporting accuracy.
     - Served as data lead for cross-functional migration and modeling initiatives, ensuring alignment across source systems.
-    - Created and led an annual compliance validation initiative covering 2,200+ customer accounts, ensuring required documentation and data traceability for regulatory adherence and audit readiness.
+    - Created and led an annual compliance validation initiative covering 2,200+ customer accounts enrolled in demand response programs, ensuring required documentation and data traceability for regulatory adherence and audit readiness.
     - Documented data definitions, business rules, and Standard Operating Procedures to support team awareness and future system enhancements.
     - Investigated and resolved data integrity issues across systems, collaborating cross-functionally to improve database reliability and reporting accuracy.
     - Built automated Dynamics 365 activity tracking dashboards to increase operational transparency.

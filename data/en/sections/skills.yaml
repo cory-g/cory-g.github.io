@@ -108,7 +108,7 @@ skills:
   categories: ["database", "other"]
   url: "https://www.microsoft.com/en-us/dynamics-365"
 
-- name: Microsoft Excel
+- name: Advanced Microsoft Excel
   logo: /images/sections/skills/stats.gif
   summary: "Performing data analysis, and reporting using advanced functions such as VLOOKUP/XLOOKUP, INDEX-MATCH, PivotTables, Power Query, and dynamic arrays to automate workflows and enhance decision-making."
   categories: ["other"]
