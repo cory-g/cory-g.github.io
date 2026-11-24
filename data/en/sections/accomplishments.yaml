@@ -16,7 +16,7 @@ accomplishments:
   organization:
     name: Coursera
     url: https://www.coursera.org
-  courseOverview: The Google Data Analytics Professional Certificate on Coursera is an industry-recognized program designed to equip learners with essential data analytics skills through hands-on training. Covering the full data lifecycle, the course teaches data cleaning, analysis, visualization, and storytelling using Excel, SQL, Tableau, and R. Learners gain expertise in statistical analysis, database management, and business problem-solving, culminating in a capstone project that applies real-world data scenarios. Upon completion, participants earn a Google-certified credential, preparing them for entry-level data analyst roles across various industries.
+  courseOverview: Hands-on program covering the full data lifecycle, from cleaning and analysis to visualization and storytelling, using Excel, SQL, Tableau, and R, with a capstone project built on real-world data.
   certificateURL: "https://coursera.org/share/d9b19337079953f52878bdcbf89ec9cb"
 
 #- name: IBM Data Engineering Professional Certificate

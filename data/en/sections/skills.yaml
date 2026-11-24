@@ -27,37 +27,67 @@ buttons:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
+- name: ISO/RTO Markets & Demand Response
+  logo: /images/sections/skills/iso.png
+  summary: "Capacity, economic, ancillary services, and emergency DR programs across ERCOT, PJM, NYISO, ISO-NE, MISO, and CAISO, including coincident peak and capacity tag methodology."
+  categories: ["other"]
+  # url: "https://python.org/"
+
+- name: API Integration
+  logo: /images/sections/skills/api.png
+  summary: "Ingesting data from the ERCOT public API, third-party APIs, and Dynamics 365 into automated pipelines."
+  categories: ["database"]
+  # url: "https://python.org/"
+
+- name: AI-Assisted Development (Claude)
+  logo: /images/sections/skills/claude.png
+  summary: "Using Claude to accelerate Python and SQL builds and standardize repeatable analyses, with all customer data kept local."
+  categories: ["other"]
+  url: "https://claude.ai/"
+
+- name: HTML
+  logo: /images/sections/skills/html.png
+  summary: "Building lightweight interfaces for internal Python tools."
+  categories: ["language"]
+  # url: "https://python.org/"
+
+- name: Data Modeling & Migration
+  logo: /images/sections/skills/database.png
+  summary: "Data lead on cross-functional migration and modeling initiatives, with documented definitions and business rules."
+  categories: ["database"]
+  # url: "https://python.org/"
+
 - name: Python
   logo: /images/sections/skills/python.png
-  summary: "Primary programming language for data analysis, machine learning, and automation."
+  summary: "Primary language for data pipelines, API ingestion, automation, and analysis."
   categories: ["language"]
   url: "https://python.org/"
 
 - name: SQL
   logo: /images/sections/skills/sql.png
-  summary: "Extracting, manipulating, and analyzing structured data from relational databases. I have experience with PostgreSQL, MySQL, and Snowflake"
+  summary: "Multi-table joins, CTEs, views, and parameterized query templates for extracting and reconciling operational data. Experience with Snowflake, SQLite, MySQL, and SQL Server."
   categories: ["database", "language"]
   # url: "#"
 
 - name: ETL (Extract, Transform, Load)
   logo: /images/sections/skills/code.png
-  summary: "Building data pipelines to clean and structure data for analysis"
+  summary: "Automated pipelines that ingest, clean, validate, and structure multi-source data for reporting."
   categories: ["database"]
 
 - name: Pandas & NumPy
   logo: /images/sections/skills/python.png
   summary: "Essential Python libraries for data manipulation and numerical computing."
   categories: ["other"]
-  #url: "#"
+  # url: "#"
 
-- name: Scikit-learn, RandomForest, XGBoost
+- name: Scikit-learn & XGBoost
   logo: /images/sections/skills/ml.png
-  summary: "Implementing machine learning models for classification, regression, and predictive analytics."
+  summary: "Classification and regression models built in personal projects. See Projects."
   categories: ["other"]
 
 - name: Power BI, Tableau
   logo: /images/sections/skills/datavis.png
-  summary: "Creating interactive dashboards and reports for business insights."
+  summary: "Interactive dashboards for real-time operational monitoring, KPI tracking, and executive reporting."
   categories: ["data vis"]
   url: "https://www.microsoft.com/en-us/power-platform/products/power-bi"
 
@@ -72,9 +102,9 @@ skills:
   categories: ["database"]
   url: "https://snowflake.com/"
   
-- name: Linux
+- name: Linux & Bash
   logo: /images/sections/skills/linux.png
-  summary: "Working with command-line tools for data processing and automation."
+  summary: "Debian-based systems, Bash scripting, and scheduled command-line automation."
   categories: ["other"]
   # url: "https://.com/"
   
@@ -82,11 +112,11 @@ skills:
   logo: /images/sections/skills/code.png
   summary: "An interactive environment for coding, documenting, and visualizing data."
   categories: ["other"]
-  url: "https://jupyter.com/"
+  url: "https://jupyter.org/"
 
-- name: Data Validation
+- name: Data Validation & Anomaly Detection
   logo: /images/sections/skills/stats.gif
-  summary: "Ensuring data accuracy, completeness, and consistency in analytical processes."
+  summary: "Validation frameworks and anomaly checks that keep data accurate, complete, and audit-ready."
   categories: ["other"]
   # url: "https://.org/"
 
@@ -96,15 +126,9 @@ skills:
   categories: ["language"]
   url: "https://r-project.org/"
 
-- name: Regression Analysis & Predictive Modeling
-  logo: /images/sections/skills/scatter.png
-  summary: "Using statistical techniques to make data-driven predictions."
-  categories: ["other"]
-  # url: "https://.com/"
-  
 - name: Microsoft Dynamics 365
   logo: /images/sections/skills/code.png
-  summary: "Managing customer and business data within CRM systems."
+  summary: "Extracting CRM data to feed Python tools, SQLite databases, and reporting."
   categories: ["database", "other"]
   url: "https://www.microsoft.com/en-us/dynamics-365"
 

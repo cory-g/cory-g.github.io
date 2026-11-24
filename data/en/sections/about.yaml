@@ -8,18 +8,18 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Data Analyst
+designation: Senior Analyst, Demand Management
 # your company information
-# company:
-#   name: Example Co.
-#   url: "https://www.example.com"
+company:
+  name: CPower Energy
+  url: "https://www.cpowerenergy.com"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'Senior Analyst specializing in data governance, automation, and enterprise reporting in regulated environments. Designs scalable ETL workflows and validation frameworks that enhance data accuracy and operational efficiency. Trusted partner to senior leadership, delivering executive insights and leading cross-functional initiatives that strengthen compliance, reporting integrity, and strategic decision-making.'
+summary: 'Senior Analyst with 7+ years of data analysis experience and deep expertise in demand response operations across all six major U.S. ISO/RTO markets: ERCOT, PJM, NYISO, ISO-NE, MISO, and CAISO. Builds Python and SQL data pipelines, Power BI dashboards, and automated workflows that drive dispatch decisions, operational visibility, and compliance readiness. Trusted by executive leadership to turn complex market and regulatory data into clear, actionable strategy.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -83,22 +83,22 @@ badges:
 #  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
 - type: soft-skill-indicator
-  name: Problem-solving
+  name: Problem-Solving
   percentage: 100
   color: "#856734"
 
 - type: soft-skill-indicator
-  name: Communication & Data Storytelling
+  name: Executive Communication & Data Storytelling
   percentage: 100
   color: "#7b8534"
 
 - type: soft-skill-indicator
-  name: Critical Thinking
+  name: Program & Stakeholder Management
   percentage: 100
   color: "#528534"
 
 - type: soft-skill-indicator
-  name: Collaboration & Cross-Functional Teamwork
+  name: Cross-Functional Collaboration
   percentage: 100
   color: "#34853e"
 

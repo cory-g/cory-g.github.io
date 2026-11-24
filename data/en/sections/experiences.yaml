@@ -20,27 +20,30 @@ experiences:
     # company overview
     overview: CPower enables a flexible, clean energy future by optimizing customer DERs through monetization and Virtual Power Plants, delivering grid flexibility when and where it's needed most.
   positions:
+  - designation: Senior Analyst, Demand Management
+    start: March 2026
   - designation: Senior Analyst, Energy Data
-    start: January 2026
+    start: December 2025
+    end: March 2026
   - designation: Analyst, Energy Data
     start: April 2023
-    end: January 2026
+    end: December 2025
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Led development of automated ETL and data ingestion workflows using Python and SQL, ensuring reliable integration of multi-source operational data.
-    - Supported operational data workflows tied to demand response programs across capacity, economic, ancillary services, and emergency DR program types, working within data systems that interfaced with major ISO/RTO markets.
-    - Automated co-worker tasks using Python, reducing manual workload by 20+ hours per month.
-    - Designed and maintained centralized data pipelines, dashboards, and ad hoc reporting solutions supporting cross-departmental KPI monitoring.
-    - Developed executive-facing metrics delivered to the VP of Customer Enablement, translating complex operational data into actionable insights.
-    - Implemented structured data validation frameworks and anomaly detection checks, reducing validation backlog by 45% and improving reporting accuracy.
-    - Served as data lead for cross-functional migration and modeling initiatives, ensuring alignment across source systems.
+    - Designed and deployed a Power BI peak demand management dashboard supported by automated Python data pipelines spanning the ERCOT public API and multiple third-party API integrations, enabling real-time participation tracking and coincident peak load approximation across all ISO/RTO markets.
+    - Assumed meeting lead and program management responsibilities for the ISO-NE National Grid Transmission Charge Management program, directing curtailment dispatch decisions, overseeing customer performance reporting, and managing invoice generation and distribution, achieving a 100% peak capture rate across 9 qualifying events.
+    - Developed a Python-driven PDM customer tool integrating Dynamics 365 data extraction, a local SQLite database, and a custom HTML interface, streamlining customer data management and reducing manual effort by 10+ hours per month across the demand response portfolio.
+    - Authored parameterized SQL query templates with complex multi-table joins to extract coincident peak demand records across utilities and ISO/RTO markets, enabling 83% faster turnaround on curtailment planning and billing reconciliation; outputs feed the PDM customer tool, giving sales and stakeholders on-demand visibility into coincident peaks and curtailment call accuracy.
+    - Performed Python-based impact analysis of ISO/RTO capacity tag methodology transitions, including ERCOT's shift from 4CP to 12CP and ISO-NE's move from 1CP to a split-season 2CP framework, quantifying customer curtailment obligation and revenue implications across enrolled accounts.
+    - Adopted AI-assisted development (Claude) to accelerate Python and SQL builds, sharpen Power BI dashboards, and standardize repeatable analyses, keeping customer data out of AI platforms by running all scripts locally and validating every output against source data.
     - Created and led an annual compliance validation initiative covering 2,200+ customer accounts enrolled in demand response programs, ensuring required documentation and data traceability for regulatory adherence and audit readiness.
-    - Documented data definitions, business rules, and Standard Operating Procedures to support team awareness and future system enhancements.
-    - Investigated and resolved data integrity issues across systems, collaborating cross-functionally to improve database reliability and reporting accuracy.
-    - Built automated Dynamics 365 activity tracking dashboards to increase operational transparency.
+    - Led development of automated ETL and data ingestion workflows using Python and SQL across capacity, economic, ancillary services, and emergency demand response programs, integrating multi-source operational data and automating recurring analyst workflows to save 20+ hours per month.
+    - Implemented structured data validation frameworks and anomaly detection checks, reducing validation backlog by 45%, and resolved cross-system data integrity issues to improve reporting accuracy and database reliability.
+    - Developed executive-facing KPI scorecards tracking new customer equipment installation times for the VP of Customer Enablement, translating complex operational and market data into actionable insights.
     - Led an AI research initiative for the SVP of Technology, evaluating emerging AI platforms for business integration and reporting findings to executive leadership.
+    - Served as data lead for cross-functional migration and modeling initiatives, and documented data definitions, business rules, and Standard Operating Procedures to support team continuity and future system enhancements.
 
 #  - designation: Junior Software Engineer
 #    start: Nov 2017
@@ -63,9 +66,8 @@ experiences:
     start: December 2021
     end: April 2023
     responsibilities:
-    - Consolidated disparate data sources into centralized pipelines and Tableau dashboards, contributing to recovery of $100K+ in unrealized payments.
-    - Improved audit readiness and reporting accuracy through Python-based data cleaning and validation processes.
-    - Designed monthly procurement and inventory trend reports to reduce material waste and improve cost efficiency.
+    - Consolidated disparate data sources into centralized pipelines and Tableau dashboards, using Python-based data cleaning and validation to improve audit readiness and contributing to recovery of $100K+ in unrealized payments.
+    - Designed monthly procurement and inventory trend reports that reduced material waste and improved cost efficiency.
 
 - company:
     name: Nassau County Police Department
@@ -74,7 +76,7 @@ experiences:
     logo: /images/sections/experiences/ncpd.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/experiences/company3.jpg
-    overview: County Police Department
+    overview: The primary law enforcement agency for Nassau County on Long Island, New York.
   positions:
   - designation: Analyst, Arrest & Fingerprint Data
     start: May 2019
@@ -84,7 +86,7 @@ experiences:
     - Led a team of four analysts to ensure compliance with New York State and federal reporting regulations, maintaining data accuracy across criminal justice systems.
     
   - designation: Police Officer
-    start: Oct 2015
+    start: October 2015
     end: May 2019
     responsibilities:
     - Served in patrol and specialized units, maintaining public safety and operational readiness.
