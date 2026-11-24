@@ -64,7 +64,7 @@ skills:
   url: "https://python.org/"
 
 - name: SQL
-  logo: /images/sections/skills/sql.png
+  logo: /images/sections/skills/database.png
   summary: "Multi-table joins, CTEs, views, and parameterized query templates for extracting and reconciling operational data. Experience with Snowflake, SQLite, MySQL, and SQL Server."
   categories: ["database", "language"]
   # url: "#"
